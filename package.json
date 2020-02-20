@@ -1,0 +1,16 @@
+{
+  "name": "castlebot",
+  "version": "0.0.1",
+  "description": "Bot Castle creat by OuO-DocKarma-OuO#1180",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OuO-DocKarma-OuO#1180",
+  "license": "ISC"
+}
